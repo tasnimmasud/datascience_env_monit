@@ -60,3 +60,5 @@ python3 scripts/cluster_hello.py
 ## Author
 
 tasnimmasud
+
+GitHub pull exercise completed.
